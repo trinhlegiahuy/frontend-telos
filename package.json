@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "watch": "npx tailwindcss  -i ./demo5/input.css -o ./demo5/output.css --watch"
+    "watchDemo5": "npx tailwindcss  -i ./demo5/input.css -o ./demo5/output.css --watch",
+    "watchDemo6": "npx tailwindcss  -i ./demo6/input.css -o ./demo6/output.css --watch"
   },
   "devDependencies": {
     "autoprefixer": "^10.3.4",
